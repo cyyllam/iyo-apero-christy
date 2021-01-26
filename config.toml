@@ -50,13 +50,13 @@ enableEmoji = true
   # alternatively, use a built-in font-family
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Alegreya Sans / Metropolis
-  customtextFontFamily = "Commissioner"
-  customheadingFontFamily = "Fraunces"
+  customtextFontFamily = "Alegreya"
+  customheadingFontFamily = "Bitter"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water
-  theme = "sky"
+  theme = "water"
   
   # or, leave theme empty & make your own palette
   # basic color options: use only color names as shown in the
@@ -78,9 +78,9 @@ enableEmoji = true
   borderColor = "moon-gray"
   
   # show/hide social icons in site header/footer/home page
-  socialInHeader = false
-  socialInFooter = true
-  socialInHome = true
+  socialInHeader = true
+  socialInFooter = false
+  socialInHome = false
 
 [taxonomies]
   category = "categories"

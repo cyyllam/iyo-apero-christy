@@ -8,4 +8,4 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-As a member of the data science team, I work on general automation projects, dashboard building, and promoting R (see my post on why I like R). When not dabbling in code, I’m catching up on the latest K-drama and improving my chocolate chip cookie baking skills.
+I am part of the data science team at the Puget Sound Regional Council (PSRC) where I dabble in general automation projects, dashboard building, and geeking out over all things R.

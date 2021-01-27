@@ -41,17 +41,17 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "wammielammie"
   
   # basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
-  textFontFamily = "sans-serif"
+  textFontFamily = "serif"
   headingFontFamily = "sans-serif"
   # alternatively, use a built-in font-family
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Alegreya Sans / Metropolis
-  customtextFontFamily = "Alegreya"
-  customheadingFontFamily = "Bitter"
+  customtextFontFamily = "EB Garamond"
+  customheadingFontFamily = "Commissioner"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -78,9 +78,9 @@ enableEmoji = true
   borderColor = "moon-gray"
   
   # show/hide social icons in site header/footer/home page
-  socialInHeader = true
+  socialInHeader = false
   socialInFooter = false
-  socialInHome = false
+  socialInHome = true
 
 [taxonomies]
   category = "categories"
@@ -90,7 +90,7 @@ enableEmoji = true
 [menu]
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About"
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -99,22 +99,8 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
-    weight = 3
-  [[menu.header]]
     name = "Talks"
     title = "Talks"
     url = "/talk/"
-    weight = 4
-  [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
-    weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
+    weight = 3
+

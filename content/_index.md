@@ -1,7 +1,7 @@
 ---
 title: "Christy Lam"
 subtitle: "Data Programmer & Analyst"
-description: "As a member of the data science team, I work on general automation projects, dashboard building, and promoting R (see my post on why I like R). When not dabbling in code, I’m catching up on the latest K-drama and improving my chocolate chip cookie baking skills."
+description: " "
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/revoir.jpg
